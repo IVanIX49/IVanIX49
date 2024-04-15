@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IVanIX49
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python, C++, Java, SQL e.t.c.
+- 🌱 I’m currently learning Python, C++, C#, Java, SQL e.t.c.
 - 💞️ I’m looking to collaborate with Grisha
 - 📫 How to reach my level?
 
